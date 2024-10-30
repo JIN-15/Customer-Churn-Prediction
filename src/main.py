@@ -9,7 +9,7 @@ from openai import OpenAI
 
 client = OpenAI(
     base_url="https://api.groq.com/openai/v1",
-    api_key="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")
+    api_key="paste your api key here")
 
 
 def load_model(filename):
